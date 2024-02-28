@@ -3,3 +3,7 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_
 
 Useful string methods:
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods
+
+Template literals:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
