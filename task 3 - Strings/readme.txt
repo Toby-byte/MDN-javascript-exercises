@@ -7,3 +7,5 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_str
 Template literals:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 
+Math.pow:
+https://www.w3schools.com/howto/howto_js_exponentiation.asp
